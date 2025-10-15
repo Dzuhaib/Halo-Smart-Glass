@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Learning Next Js",
-  description: "Working on this to learn advance level Nextjs",
+  title: "Halo Smart Glass - Innovation meets design",
+  description: "Halo Smart Glass merges engineering with craft, creating intelligent surfaces that control privacy, display content, and elevate architecture. From penthouses to storefronts, transform windows into living experiences.",
 };
 
 export default function RootLayout({
